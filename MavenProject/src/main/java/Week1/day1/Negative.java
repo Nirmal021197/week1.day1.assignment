@@ -8,6 +8,7 @@ public class Negative {
 				}
 				else if(num<0)
 				{
+					
 					System.out.println("Number is negative");
 					num=num*-1;
 					System.out.println("Converted positive number is" +num);
